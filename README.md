@@ -1,1 +1,1 @@
-# primenumber_multiplication
+# prime number multiplication 
